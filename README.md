@@ -1,7 +1,6 @@
-# eniac-discount-analysis
-Analysis of discount strategies and their impact on revenue in e-commerce
 
 # Eniac Discount Strategy Analysis
+Analysis of discount strategies and their impact on revenue in e-commerce
 
 ## Overview
 
