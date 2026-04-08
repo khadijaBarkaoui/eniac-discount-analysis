@@ -61,7 +61,7 @@ After data cleaning, approximately 40,000 valid orders were used for analysis.
 
 ## Project Structure
 
-* `project2-base.ipynb` — Data cleaning, analysis, and visualization
+* `business_analysis.ipynb` — Data cleaning, analysis, and visualization
 * `Eniac_Discount_Analysis_Strategy.pdf` — Summary of insights and business recommendations
 
 ---
