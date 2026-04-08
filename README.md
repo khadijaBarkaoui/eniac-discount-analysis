@@ -68,5 +68,7 @@ After data cleaning, approximately 40,000 valid orders were used for analysis.
 
 ## Author:
 
-Junior Data Scientist with an interest in data analysis, business insights, and decision-making.
+Email: khadijabarkaoui27@gmail.com LinkedIn: Khadija Barkaoui
+
+
 
